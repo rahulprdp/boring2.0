@@ -1,7 +1,12 @@
 $body-bg : black;
+$body-color : white;
+$primary : rgb(0, 102, 255);
+$font-family-sans-serif: 'Fira Code', monospace;;
 
 .navbar-collapse {
     justify-content: flex-end
 }
+
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 

@@ -5,7 +5,7 @@
   },
   "name": "bs-basics",
   "version": "1.0.0",
-  "main": "index.js",
+  "master": "index.html",
   "dependencies": {
     "@popperjs/core": "^2.11.5",
     "abortcontroller-polyfill": "^1.7.3",

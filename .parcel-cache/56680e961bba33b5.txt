@@ -9,7 +9,7 @@
 81C:\Users\Starlord\Desktop\bs-basics\node_modules\css-tree\lib\syntax\node\Rule.js132998284540569470 0
 76C:\Users\Starlord\Desktop\bs-basics\node_modules\yaml\dist\legacy-exports.js132998284465466027 0
 90C:\Users\Starlord\Desktop\bs-basics\node_modules\@popperjs\core\dist\umd\popper.min.js.map132998285684521861 0
-50C:\Users\Starlord\Desktop\bs-basics\src\index.html132998414108443143 0
+50C:\Users\Starlord\Desktop\bs-basics\src\index.html132998481891045880 0
 75C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\workers\index.d.ts132998284521243705 0
 71C:\Users\Starlord\Desktop\bs-basics\node_modules\css-tree\data\index.js132998284524767923 0
 93C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\features\object-entries.js132998284581661847 0
@@ -64,7 +64,7 @@
 66C:\Users\Starlord\Desktop\bs-basics\node_modules\readdirp\index.js132998292055651214 0
 81C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\escape-html.js132998284501330309 0
 58C:\Users\Starlord\Desktop\bs-basics\node_modules\.bin\svgo132998284678978002 0
-40C:\Users\Starlord\Desktop\bs-basics\dist132998414350099817 1
+40C:\Users\Starlord\Desktop\bs-basics\dist132998481892181286 1
 98C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\fs-search\fs-search.linux-arm64-musl.node132998284511509373 0
 70C:\Users\Starlord\Desktop\bs-basics\node_modules\json5\lib\register.js132998284457752498 0
 96C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\features\fieldset-disabled.js132998284569877926 0
@@ -107,7 +107,7 @@
 88C:\Users\Starlord\Desktop\bs-basics\node_modules\@popperjs\core\dist\esm\createPopper.js132998285679292828 0
 63C:\Users\Starlord\Desktop\bs-basics\node_modules\lmdb-win32-x64132998284505399478 1
 39C:\Users\Starlord\Desktop\bs-basics\src132998289276962987 1
-48C:\Users\Starlord\Desktop\bs-basics\src\index.js132998289771388825 0
+48C:\Users\Starlord\Desktop\bs-basics\src\index.js132998422983642517 0
 72C:\Users\Starlord\Desktop\bs-basics\node_modules\lmdb-win32-x64\index.js132998284421866807 0
 74C:\Users\Starlord\Desktop\bs-basics\node_modules\bootstrap\scss\_card.scss132998285699740565 0
 84C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\features\webxr.js132998284592370475 0
@@ -121,7 +121,7 @@
 67C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\logger\src132998284482318212 1
 89C:\Users\Starlord\Desktop\bs-basics\node_modules\@popperjs\core\lib\modifiers\offset.d.ts132998285692075004 0
 58C:\Users\Starlord\Desktop\bs-basics\node_modules\@popperjs132998285668162463 1
-52C:\Users\Starlord\Desktop\bs-basics\scss\custom.scss132998414367662414 0
+52C:\Users\Starlord\Desktop\bs-basics\scss\custom.scss132998478685251752 0
 53C:\Users\Starlord\Desktop\bs-basics\node_modules\.bin132998292068304492 1
 78C:\Users\Starlord\Desktop\bs-basics\node_modules\bootstrap\js\dist\collapse.js132998285678451679 0
 85C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\dist\unpacker\region.js132998284584393783 0
@@ -478,7 +478,7 @@
 98C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\features\http-live-streaming.js132998284573025696 0
 71C:\Users\Starlord\Desktop\bs-basics\node_modules\bootstrap\js\dist\util132998285697314352 1
 85C:\Users\Starlord\Desktop\bs-basics\node_modules\yaml\browser\dist\Schema-e94716c8.js132998284510048740 0
-63C:\Users\Starlord\Desktop\bs-basics\dist\index.1346fb5e.css.map132998414349760720 0
+63C:\Users\Starlord\Desktop\bs-basics\dist\index.1346fb5e.css.map132998474480810180 0
 78C:\Users\Starlord\Desktop\bs-basics\node_modules\nullthrows\nullthrows.js.flow132998284452545242 0
 59C:\Users\Starlord\Desktop\bs-basics\node_modules\picocolors132998284444687971 1
 84C:\Users\Starlord\Desktop\bs-basics\node_modules\type-fest\source\readonly-deep.d.ts132998284502248004 0
@@ -2227,7 +2227,7 @@
 69C:\Users\Starlord\Desktop\bs-basics\node_modules\is-glob\package.json132998292058211217 0
 85C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\features\run-in.js132998284584888121 0
 66C:\Users\Starlord\Desktop\bs-basics\node_modules\is-glob\README.md132998292058891207 0
-59C:\Users\Starlord\Desktop\bs-basics\dist\index.1346fb5e.css132998414349750741 0
+59C:\Users\Starlord\Desktop\bs-basics\dist\index.1346fb5e.css132998474480800194 0
 72C:\Users\Starlord\Desktop\bs-basics\node_modules\bootstrap\js\src\tab.js132998285682612680 0
 88C:\Users\Starlord\Desktop\bs-basics\node_modules\htmlnano\lib\modules\removeUnusedCss.js132998284501210308 0
 68C:\Users\Starlord\Desktop\bs-basics\node_modules\is-extglob\index.js132998292057171204 0
@@ -3025,7 +3025,7 @@
 80C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\regions\SC.js132998284585066876 0
 80C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\regions\SI.js132998284586017952 0
 80C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\regions\SK.js132998284586146841 0
-62C:\Users\Starlord\Desktop\bs-basics\dist\index.975ef6c8.js.map132998414349860455 0
+62C:\Users\Starlord\Desktop\bs-basics\dist\index.975ef6c8.js.map132998474256698639 0
 80C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\regions\SN.js132998284586186891 0
 80C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\regions\ST.js132998284586871890 0
 80C:\Users\Starlord\Desktop\bs-basics\node_modules\caniuse-lite\data\regions\SV.js132998284587344307 0
@@ -4184,7 +4184,7 @@
 83C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\openInBrowser.js132998284527488942 0
 84C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\parseCSSImport.js132998284528093445 0
 86C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\prettyDiagnostic.js132998284530023801 0
-51C:\Users\Starlord\Desktop\bs-basics\dist\index.html132998414349411651 0
+51C:\Users\Starlord\Desktop\bs-basics\dist\index.html132998481892131413 0
 93C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\replaceBundleReferences.js132998284532064708 0
 79C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\sourcemap.js132998284533968246 0
 79C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\utils\src\TapStream.js132998284534648703 0
@@ -4498,7 +4498,7 @@
 74C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\hash\package.json132998284457632460 0
 91C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node132998284486975521 0
 89C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\hash\parcel-hash.darwin-x64.node132998284496070398 0
-56C:\Users\Starlord\Desktop\bs-basics\dist\bg.38d5187b.jpg132998414349421625 0
+56C:\Users\Starlord\Desktop\bs-basics\dist\bg.38d5187b.jpg132998464838088864 0
 93C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\hash\parcel-hash.linux-x64-musl.node132998284523846112 0
 93C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\hash\parcel-hash.win32-x64-msvc.node132998284526890251 0
 67C:\Users\Starlord\Desktop\bs-basics\node_modules\@parcel\graph\test132998284492725788 1
@@ -4867,5 +4867,5 @@
 60C:\Users\Starlord\Desktop\bs-basics\node_modules\.bin\terser132998284678962667 0
 64C:\Users\Starlord\Desktop\bs-basics\node_modules\.bin\terser.cmd132998284678962667 0
 64C:\Users\Starlord\Desktop\bs-basics\node_modules\.bin\terser.ps1132998284678962667 0
-58C:\Users\Starlord\Desktop\bs-basics\dist\index.975ef6c8.js132998414349830541 0
+58C:\Users\Starlord\Desktop\bs-basics\dist\index.975ef6c8.js132998474256668718 0
 49C:\Users\Starlord\Desktop\bs-basics\assets\bg.jpg132998413223609440 0

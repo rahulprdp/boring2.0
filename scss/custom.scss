@@ -10,3 +10,11 @@ $font-family-sans-serif: 'Fira Code', monospace;;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
+
+@media (min-width: 992px)
+{ 
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+}
